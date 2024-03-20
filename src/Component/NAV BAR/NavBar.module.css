@@ -1,0 +1,24 @@
+
+
+
+.nav{
+    box-shadow: 0 0 6px #000;
+    background:rgba(0, 0, 0, 0.2);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+
+}
+
+.accawent{
+    box-shadow:0px 0px 6px 0px #645a5a inset;
+}
+
+/* .insta{
+    background: -webkit-linear-gradient(top , #6601a5 , #d51a80 , #f5b33e);
+} */
+
+/* 005eff */

@@ -1,0 +1,12 @@
+
+.innar{
+    transition: 0.5s all;
+}
+
+.innar:hover{
+
+    box-shadow: 2px 2px 7px 2px rgba(22, 83, 22, 0.459);
+    
+    transform: rotate(2deg)scale(1.05);
+
+}

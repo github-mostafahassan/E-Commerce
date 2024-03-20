@@ -1,0 +1,19 @@
+
+
+
+.average{
+    background-color:rgba(128, 128, 128, 0.795);
+    transform: translateX(100%);
+    transition: 1.2s all;
+}
+
+.cartProdact{
+    overflow: hidden;
+}
+
+
+.cartProdact:hover .average{
+    transform: translateX(0);
+
+}
+
